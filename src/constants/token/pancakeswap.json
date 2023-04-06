@@ -1,0 +1,278 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.briseswap.finance/images/pancakeswap.png",
+  "keywords": ["pancakeswap", "default"],
+  "tokens": [
+    {
+      "name": "WBRISE Token",
+      "symbol": "WBRISE",
+      "address": "0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710.png"
+    },
+    {
+      "name": "BriseSwap Token",
+      "symbol": "BSWAP",
+      "address": "0xF26006408112be347c23FDBa03F7bC3566519655",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xF26006408112be347c23FDBa03F7bC3566519655.png"
+    },
+    {
+      "name": "BrisePad Token",
+      "symbol": "BPAD",
+      "address": "0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D",
+      "chainId": 32520,
+      "decimals": 8,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D.png"
+    },
+    {
+      "name": "Sphynx BRC Token",
+      "symbol": "SPHYNX",
+      "address": "0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298.png"
+    },
+    {
+      "name": "EVO Token",
+      "symbol": "EVO",
+      "address": "0x267Ae4bA9CE5ef3c87629812596b0D89EcBD81dD",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x267Ae4bA9CE5ef3c87629812596b0D89EcBD81dD.png"
+    },
+    {
+      "name": "BitsXT Token",
+      "symbol": "BTXT",
+      "address": "0x1A8a039007186d7640C1D7Cd7c2606e333D04e03",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x1A8a039007186d7640C1D7Cd7c2606e333D04e03.png"
+    },
+    {
+      "name": "OmniaVerse Token",
+      "symbol": "OMNIA",
+      "address": "0x5d4685c2C75581C67b9D6292A065a767bC214681",
+      "chainId": 32520,
+      "decimals": 8,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x5d4685c2C75581C67b9D6292A065a767bC214681.png"
+    },
+    {
+      "name": "Vefi Ecosystem Token",
+      "symbol": "VEF",
+      "address": "0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2.png"
+    },
+    {
+      "name": "Brise Paradise Token",
+      "symbol": "PRDS",
+      "address": "0x31226B28add9062c5064a9Bd35eA155F323C6ca6",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x31226B28add9062c5064a9Bd35eA155F323C6ca6.png"
+    },
+    {
+      "name": "BriseZilla Token",
+      "symbol": "BRZILLA",
+      "address": "0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36.png"
+    },
+    {
+      "name": "Numitor Token",
+      "symbol": "NUMI",
+      "address": "0x6718e47e74497d1564EE76d832309144b83Ef8E8",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x6718e47e74497d1564EE76d832309144b83Ef8E8.png"
+    },
+    {
+      "name": "4D Twin Maps Token",
+      "symbol": "MAP",
+      "address": "0x6D347fdCb302a5879545E01EceE7A176db23dCDa",
+      "chainId": 32520,
+      "decimals": 2,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x6D347fdCb302a5879545E01EceE7A176db23dCDa.png"
+    },
+    {
+      "name": "Young Parrot Token",
+      "symbol": "YPC",
+      "address": "0x11203a00a9134Db8586381C4B2fca0816476b3FD",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x11203a00a9134Db8586381C4B2fca0816476b3FD.png"
+    },
+    {
+      "name": "BROGE Token",
+      "symbol": "BROGE",
+      "address": "0x41c5ae56681Fb19334eCF7d914919805DaE2Ec8f",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x41c5ae56681Fb19334eCF7d914919805DaE2Ec8f.png"
+    },
+    {
+      "name": "Miidas NFT Token",
+      "symbol": "Miidas",
+      "address": "0x5B534A2Df329195Fd7e5c9AcA1D9ffbdA14A4963",
+      "chainId": 32520,
+      "decimals": 6,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x5B534A2Df329195Fd7e5c9AcA1D9ffbdA14A4963.png"
+    },
+    {
+      "name": "YOGO Token",
+      "symbol": "YOGO",
+      "address": "0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb.png"
+    },
+    {
+      "name": "Whale Maker Fund Token",
+      "symbol": "WMF",
+      "address": "0xc89fcd3E1CF5A355fc41E160d18BAC5f624610D4",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xc89fcd3E1CF5A355fc41E160d18BAC5f624610D4.png"
+    },
+    {
+      "name": "Metaverse City Tokyo Token",
+      "symbol": "TOKYO",
+      "address": "0x38EA4741d100cAe9700f66B194777F31919142Ee",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x38EA4741d100cAe9700f66B194777F31919142Ee.png"
+    },
+    {
+      "name": "Graphen",
+      "symbol": "ELTG",
+      "address": "0xb860eCD8400600c13342a751408737235E177077",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xb860eCD8400600c13342a751408737235E177077.png"
+    },
+    {
+      "name": "Mixed Reality",
+      "symbol": "MIR",
+      "address": "0x2468dad471fA7E03d8029F057cc41742F017D53d",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x2468dad471fA7E03d8029F057cc41742F017D53d.png"
+    },
+    {
+      "name": "Darrival",
+      "symbol": "DRV",
+      "address": "0xeB18A16A08530b811523fA49310319809ac4c979",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xeB18A16A08530b811523fA49310319809ac4c979.png"
+    },
+    {
+      "name": "Brisecom",
+      "symbol": "BASKOM",
+      "address": "0x6cd08be8aa9b705ca86b4923b1784c0ee06e5220",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x6cd08be8aa9b705ca86b4923b1784c0ee06e5220.png"
+    },
+    {
+      "name": "Alpha Trades",
+      "symbol": "WOLF",
+      "address": "0x4Fb3DBF9111169ff60fFB8a7be1c6Fd3D4E417bC",
+      "chainId": 32520,
+      "decimals": 19,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x4Fb3DBF9111169ff60fFB8a7be1c6Fd3D4E417bC.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 32520,
+      "decimals": 6,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+    },
+    {
+      "name": "Aibra",
+      "symbol": "ABR",
+      "address": "0x9F7Bb6E8386ac9ad5e944d66fBa80F3F7231FA94",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x9F7Bb6E8386ac9ad5e944d66fBa80F3F7231FA94.png"
+    },
+    {
+      "name": "VaultCoin",
+      "symbol": "VTC",
+      "address": "0xe6F2c07942DA91134138041e6391E8457274E456",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xe6F2c07942DA91134138041e6391E8457274E456.png"
+    },
+    {
+      "name": "Meta Force Brise",
+      "symbol": "META",
+      "address": "0x31122FF4F06AC5392F46AFf05C3eB0677a05D210",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x31122FF4F06AC5392F46AFf05C3eB0677a05D210.png"
+    },
+    {
+      "name": "Ardiansyah Crypto",
+      "symbol": "ARCO",
+      "address": "0xbfa6394b9898566652276f1Fb40d65e75787D66f",
+      "chainId": 32520,
+      "decimals": 9,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xbfa6394b9898566652276f1Fb40d65e75787D66f.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 32520,
+      "decimals": 6,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x765277EebeCA2e31912C9946eAe1021199B39C61.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BSC BNB",
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x922D641a426DcFFaeF11680e5358F34d97d112E1.png"
+    },
+    {
+      "name": "CCubeProtocol",
+      "symbol": "CCUBE",
+      "address": "0xD2C685D6CB45F6E32618337599Cc7C0Bf11C65ff",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0xD2C685D6CB45F6E32618337599Cc7C0Bf11C65ff.png"
+    },
+    {
+      "name": "xRICE Token",
+      "symbol": "xRICE",
+      "address": "0x722f5f012D29Cc4d6464B6a46343fBA3881eaa56",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x722f5f012D29Cc4d6464B6a46343fBA3881eaa56.png"
+    },
+    {
+      "name": "RICE Token",
+      "symbol": "RICE",
+      "address": "0x1eb697Cb6F457F6a65C682F7f7c65F9f2E622A34",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://exchange.briseswap.finance/images/coins/0x1eb697Cb6F457F6a65C682F7f7c65F9f2E622A34.png"
+    }
+  ]
+}
